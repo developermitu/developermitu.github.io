@@ -63,18 +63,17 @@ h1{
     color:  rgb(25, 192, 39); 
     font-style: bold;
 }
-
-h4{
+.contact{
     color: rgb(255, 0, 242);
     text-align:center;
 }
+
 a{
     color: blue;
     font-style: italic;
     text-decoration: none;
 }
-h2{
-    font-size: 60px; 
+h2{ 
     text-align:center; 
     color:  rgb(255, 0, 0); 
     font-style: bold;
@@ -87,4 +86,8 @@ img{
     margin-left: 30%;
     margin-right: 25%;
 
+}
+.image-disc{
+    text-align: center;
+    color: black;
 }
