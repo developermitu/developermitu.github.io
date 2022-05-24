@@ -16,7 +16,7 @@ body{
 }
 .wrapper .static-txt{
     color: rgb(0, 0, 0);
-    font-size: 3.4rem;
+    font-size: 28px;
     font-weight: 400;
 }
 .wrapper .dynamic-txt{
@@ -28,7 +28,7 @@ body{
 .dynamic-txt li{
     list-style: none;
     color: #fc6d6d;
-    font-size: 33px;
+    font-size: 23px;
     font-weight: 600;
     position: relative;
     top: 0%;
